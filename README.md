@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![José's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joselucas94&show_icons=true&theme=dracula#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joselucas94)](https://github.com/anuraghazra/github-readme-stats)
